@@ -19,7 +19,7 @@
     <form method="post" name="customerData" action="ccavRequestHandler.php">
     <table width="100%" height="100">
     <tr>
-    <td colspan="2"> Compulsory information</td>
+    <td colspan="2"> Compulsory information past haer</td>
     </tr>
     <tr>
     <td>TID	:</td><td><input type="text" name="tid" id="tid" value="<?php echo(rand(11111,99999)); ?>" readonly /></td>
